@@ -91,50 +91,33 @@ body {
     line-height: 35px;
 }
 
-.bluButton {
+.badge {
+    padding: 10px;
     font-size: 15px;
-    background-color: #47ADF1;
     color: #ffffff;
     border-radius: 15px;
-    padding: 10px;
+}
+
+.bluButton {
+    background-color: #47ADF1;
 }
 
 .violetButton {
-    font-size: 15px;
     background-color: #9C72E4;
-    color: #ffffff;
-    border-radius: 15px;
-    padding: 10px;
 }
 
 .greenButton {
-    font-size: 15px;
-    background-color: #64C0A9;
-    color: #ffffff;
-    border-radius: 15px;
-    padding: 10px;
+    background-color: #64C0A9;  
 }
 
 .orangeButton {
-    font-size: 15px;
     background-color: #F29E33;
-    color: #ffffff;
-    border-radius: 15px;
-    padding: 10px;
 }
 
 .pinkButton {
-    font-size: 15px;
     background-color: #D863A1;
-    color: #ffffff;
-    border-radius: 15px;
-    padding: 10px;
 }
 
 .limeButton {
-    font-size: 15px;
     background-color: #B0C926;
-    color: #ffffff;
-    border-radius: 15px;
-    padding: 10px;
 }
