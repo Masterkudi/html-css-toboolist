@@ -16,15 +16,13 @@ header {
 }
 
 #logo {
-    align-items: center;
-    width: 60px;
+    width: 70px;
 }
 
 #title {
     font-size: 80px;
     display: inline-block;
     margin: 0;
-    align-items: center;
 }
 
 body {
@@ -74,8 +72,8 @@ body {
     display: inline-block;
     width: 35px;
     height: 35px;
-    color: green;
-    border: 2px solid green;
+    color: #84CDBC;
+    border: 2px solid #84CDBC;
     border-radius: 50%;
     text-align: center;
     line-height: 35px;
@@ -86,8 +84,8 @@ body {
     display: inline-block;
     width: 35px;
     height: 35px;
-    color: red;
-    border: 2px solid red;
+    color: #EB544C;
+    border: 2px solid #EB544C;
     border-radius: 50%;
     text-align: center;
     line-height: 35px;
